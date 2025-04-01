@@ -1,3 +1,3 @@
 # MyDemoApp2
 
-This is a demo application repository.
+This is a demo application repository. Updated
